@@ -1,0 +1,6 @@
+
+{{#user}
+Name: Ishitva Shukla
+Skills: HTML, CSS, JS, React.js
+Email: isht1402@gmail.com
+{{/user}}
